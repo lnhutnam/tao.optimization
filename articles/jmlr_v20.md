@@ -1,0 +1,2 @@
+1. Exact Clustering of Weighted Graphs via Semidefinite Programming. [pdf](https://jmlr.org/papers/volume20/16-128/16-128.pdf)
+2. Simultaneous Phase Retrieval and Blind Deconvolution via Convex Programming. [pdf](https://jmlr.org/papers/volume20/19-332/19-332.pdf)
